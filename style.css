@@ -7,12 +7,14 @@ img{
   margin-right: auto;
   width: 50%;
 }
-nav{
-  
+nav > a{
   text-align: center;
   background-color: grey;
   padding-left: 10px;
   padding-right: 10px;
+}
+nav{
+  text-align: center;
 }
 figcaption{
   text-align: center;
