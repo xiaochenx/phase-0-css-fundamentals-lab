@@ -1,3 +1,53 @@
+h1{
+  text-align: center;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+nav{
+  
+  text-align: center;
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption{
+  text-align: center;
+  font-size: small;
+}
+#featured-property > p{
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+#firstbox{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
+#secondbox{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
+#thirdbox{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
+#fourthbox{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
 body {
   width: 100%;
   height: 100%;
